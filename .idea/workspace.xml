@@ -22,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Spaidafora"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/spaidafora/FlexFlow.git",
+    "accountId": "fcd6c5b9-9775-4bb8-b4b9-159b4f7a27ac"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -60,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727727065487</updated>
       <workItem from="1727727072110" duration="19000" />
-      <workItem from="1727727094668" duration="685000" />
+      <workItem from="1727727094668" duration="5595000" />
     </task>
     <servers />
   </component>
